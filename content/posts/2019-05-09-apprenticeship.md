@@ -5,6 +5,7 @@ date:   2019-05-09 19:55:00 +0200
 ---
 
 We want to further promote some kind of apprenticeship/training programm in our department and yesterday was our kickoff meeting. There were some topics that were discussed that all fall under this wider concept but have some differences: 
+
 - we want to see if we can build on my apprenticeship program to make it accessible for a wider audience
 - we are looking for better ways to integrate new employees into the company and into our teams
 - we think that very junior people will need a different onboarding path than people who have been working in software development for a while

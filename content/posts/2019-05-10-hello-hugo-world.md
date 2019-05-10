@@ -13,6 +13,7 @@ I ended up following parts of this [explanation](https://www.circuidipity.com/hu
 I did swear a bit. I was told to calm down a bit. Yeah well, this is stressful. But I did it. 
 
 Next steps: 
+
 - add things like an about page
 - figure out how to put links in the sidebar
 - add tags to all my posts (ugh)
@@ -22,3 +23,5 @@ Next steps:
 Again, I might do the last step first and deal with the rest later. 
 
 Also, I bought the new edition of The Pragmatic Programmer and I'm beyond excited to start reading, so this might be how this site looks for a while. It's a state I can live with, I think. It's better than the endless index page on the old one. 
+
+Edit, just a few seconds after the last edit: I just realised that this theme seems to be a bit more strict about markdown rules. I think all my lists are broken. Ooops. I'll add it to my to-do list
