@@ -1,0 +1,8 @@
+/* Custom CSS */
+p a {
+    color: #46DCC3;
+}
+
+.comment-content a, .entry-content a {
+    border-bottom: none;
+}
