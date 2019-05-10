@@ -1,4 +1,8 @@
 /* Custom CSS */
+.main-menu li {
+    margin-right: 2em;
+}
+
 p a {
     color: #46DCC3;
 }
@@ -6,3 +10,4 @@ p a {
 .comment-content a, .entry-content a {
     border-bottom: none;
 }
+
