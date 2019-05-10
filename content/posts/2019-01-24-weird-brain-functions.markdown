@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Weird Brain Functions"
 date:   2019-01-24 18:13:47 +0100
+tags: 
+- mindfulness
 ---
 
 I felt quite low yesterday when I left the office after my failure with my TDD approach. While I was on my way home, my coworker sent me a Slack message telling me what the cause of my last problem was. When I got home, I opened up my laptop again, fixed my mistake and everything worked.

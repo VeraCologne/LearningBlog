@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Refactoring"
 date:   2019-02-13 17:13:47 +0100
+tags: 
+- apprenticeship
+- methods
 ---
 
 In my mentoring session today we talked about reviewing my code. We work trunk-based and I find it very difficult to prepare for code review. Once I am "done" with something, there have been so many commits in between mine that it's hard for me to gather everything and look back at it on my own and with someone else. It was easier when we did feature branches because then I could just do a pull request against develop and I would see all MY changes. We are looking for a better way of doing this.

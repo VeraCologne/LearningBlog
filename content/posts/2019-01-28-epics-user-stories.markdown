@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Epics and User Stories"
 date:   2019-01-28 20:13:47 +0100
+tags: 
+- apprenticeship
 ---
 
 I started writing epics for my dashboard project, along with some mockups and there are some things I noticed:

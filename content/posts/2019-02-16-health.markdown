@@ -2,6 +2,9 @@
 layout: post
 title:  "The One Where I Read About Health"
 date:   2019-02-16 14:13:47 +0100
+tags: 
+- mindfulness
+- books
 ---
 
 I spent the last 2 days in hospital with what turned out to be a minor pancreatic inflammation. While I was waiting in some hall for a sonograph or CAT scan or something like that, I texted a coworker to ask for a book recommendation that was easily readable (I can't read code examples on a small screen and while I'm being interrupted multiple times). One of the books he suggested was [The Healthy Programmer](https://pragprog.com/book/jkthp/the-healthy-programmer) by Joe Kutner and that seemed like the perfect book to read when you are in hospital with weird symptoms.

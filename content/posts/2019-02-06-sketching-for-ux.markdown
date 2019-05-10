@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Sketching For UX"
 date:   2019-02-06 18:13:47 +0100
+tags: 
+- ux
 ---
 
 Mindfulness and meditation are great ways to get out of a funk, to see things from a different perspective and to fight stress and negative emotions. Another way for doing that is doing something creative. That's why I jumped on this [Sketching for UX Challenge](https://sketchingforux.com/) as soon as I was made aware of it.

@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With a Communication Workshop"
 date:   2019-01-07 22:43:47 +0100
+tags: 
+- communication
 ---
 
 Today was the first day of a two-day communication and collaboration workshop we are doing as a team.

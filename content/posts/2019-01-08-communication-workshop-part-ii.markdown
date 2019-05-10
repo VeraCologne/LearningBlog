@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With the Communication Workshop Part II"
 date:   2019-01-08 17:43:47 +0100
+tags: 
+- communication
 ---
 
 We started our second workshop day by talking about what we like about our team or individual team members and what we think is holding us back. There was nothing new in this for me as we have done bits of this in various retrospectives, but the coaches' feedback was to take a look at how much positive things we have in our tool belt and see if we can use this to counter the negative parts.

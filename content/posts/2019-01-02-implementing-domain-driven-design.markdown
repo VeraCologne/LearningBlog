@@ -2,6 +2,8 @@
 layout: post
 title:  "The One Without Implementing Domain-Driven Design"
 date:   2019-01-02 15:43:47 +0100
+tags: 
+- domain driven design
 ---
 
 I finally finished my Architecture Patterns task today by reading through and making notes of the last parts of the Architecture chapter in [Implementing Domain-Driven Design](https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/). I now have a cheat sheet with the most important aspects of the Layers, Ports and Adapters, Service-Oriented, Microservices, REST, CQRS and Event-Driven architecture patterns. Although I'm not sure these are all on the same level or of the same type. I'll review this with my mentor next week. For now, I've done enough for this task.

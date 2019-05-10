@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With an Architecture Diagram"
 date:   2019-03-05 21:13:47 +0100
+tags: 
+- architecture
 ---
 
 One of my tasks for this week is to create an/some architecture diagram/s from the epics and user stories that I have written. And I have to admit that I have no idea how to get from a user story to an architecture diagram. I could model something that looks like the architecture we use in our latest applications but that doesn't really make any sense. The goal of this task is to see which kind of architecture and system would be useful for the stories I want to implement.

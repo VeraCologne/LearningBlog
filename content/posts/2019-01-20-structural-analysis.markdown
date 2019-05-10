@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Structural Analysis"
 date:   2019-01-20 20:13:47 +0100
+tags: 
+- communication
 ---
 
 I wanted to learn a bit more about communication and decided to start with Vera Birkenbihl's book [Kommunikationstraining](https://www.m-vg.de/mvg/shop/article/1331-kommunikationstraining/). After finishing the first part (the theory) I can recommend this book to anyone who wants to learn more about communication and who wants to work on their communication skills. To give an overview about the content, the biggest chapters are about a person's sense of self-worth, needs, motivations, images (about the world and themselves) and defensive measures and what those have to do with successful or failed communication, communication levels and feedback techniques and an introduction to Transactional Analysis.

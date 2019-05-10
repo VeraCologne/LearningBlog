@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With the Dashboard Idea"
 date:   2019-01-14 21:43:47 +0100
+tags: 
+- apprenticeship
 ---
 
 My practice project for my learning program will be a dashboard. It is something that will be valuable to the company but there is no need for it to be done in a specific time frame and I am not reliant on outside input. That doesn't mean I am not talking to anyone about this, but I will be able to work on this in my own time without having to wait for someone who might have more important things on their plate right now.

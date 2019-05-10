@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Associations and Joins"
 date:   2019-02-12 17:13:47 +0100
+tags: 
+  - elixir
+  - tools
 ---
 
 Another day, another database problem. What I did with my upserts yesterday worked, but the query to show this to the user was less than perfect. It was actually pretty bad and I knew it, but after overcoming several points of "What am I doing here? I'm never going to be able to get this done!" yesterday I decided that was a good problem to not try to solve on my own.

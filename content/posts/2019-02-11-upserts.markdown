@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Upserts"
 date:   2019-02-11 20:13:47 +0100
+tags: 
+  - elixir
+  - tools
 ---
 
 I was able to successfully use an upsert in one of our main applications, on my own, on the third (or so) try today.

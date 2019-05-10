@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With the Review"
 date:   2018-12-10 17:43:47 +0100
+tags: 
+- agile
+- communication
 ---
 
 Today I had two types of review: The one for our sprint and the review/planning session for my learning project.

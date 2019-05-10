@@ -2,6 +2,10 @@
 layout: post
 title:  "The One Where I Try to Fight my Imposter Syndrome"
 date:   2018-11-27 19:43:47 +0100
+tags: 
+- apprenticeship
+- blog
+- books
 ---
 Hello, world!
 

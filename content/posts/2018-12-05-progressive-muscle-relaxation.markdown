@@ -2,6 +2,8 @@
 layout: post
 title:  "The One Where I Try Progressive Muscle Relaxation"
 date:   2018-12-05 19:43:47 +0100
+tags: 
+- mindfulness
 ---
 
 I have been very stressed lately, mainly not from external pressure but because of my emotional reactions to everyday things. So I'm trying to learn a bit more about what stress is and how to deal with it.

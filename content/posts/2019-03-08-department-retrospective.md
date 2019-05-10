@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Our Department Retrospective"
 date:   2019-03-08 14:13:47 +0100
+tags: 
+- agile
 ---
 
 We did a whole-department retrospective today, with a focus on how we can improve our work together, across teams in the future (so more of a prospective I guess).

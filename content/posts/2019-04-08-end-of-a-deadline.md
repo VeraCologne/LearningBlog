@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With the End of a Deadline"
 date:   2019-04-08 08:55:00 +0200
+tags: 
+- studitemps
+- agile
 ---
 
 Last Friday was deadline day. We had managed to implement everything we wanted by Wednesday and then tested this with our users where we found some smaller issues that we fixed on Thursday. We were also notified that, because the users were a bit nervous about the new process and software they were going to start working with this new application on Saturday instead of Monday. And that they needed to prepare things (which they needed our help for) on Friday night. We managed to find someone who would be responsible for questions and problems on Saturday (and we all said we were going to try to look at notifications when possible) and I volunteered for the Friday night thing.

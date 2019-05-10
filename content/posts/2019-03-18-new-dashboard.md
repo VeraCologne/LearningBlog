@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With a New Dashboard"
 date:   2019-03-18 18:13:47 +0100
+tags: 
+- apprenticeship
 ---
 
 One of the ideas of my learning project was to build something that could potentially at some point actually be used in the company. We don't have a cool dashboard to show our KPIs so it would be kind of nice to build one. Since we had this idea some other people noticed that it would be cool to have something like that and now it actually is a team's project.

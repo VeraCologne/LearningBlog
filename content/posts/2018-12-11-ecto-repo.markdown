@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Ecto.Repo"
 date:   2018-12-11 16:43:47 +0100
+tags: 
+- elixir
+- tools
 ---
 
 In order to work on my knowledge gap about Ecto Queries that I mentioned yesterday, I started reading [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto). I have started at the beginning, as the introduction chapter advises to and have read about Ecto.Repo today and I have to admit that my mind feels a bit blown right now.

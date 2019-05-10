@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Transactional Analysis"
 date:   2019-01-22 22:13:47 +0100
+tags: 
+- communication
 ---
 
 I have decided not to write a post explaining what I understood about Transactional Analysis from what Vera Birkenbihl says about what Dr. Eric Berne says. I found this [Medium post](https://medium.com/@NataliMorad/how-to-communicate-better-with-transactional-analysis-d0d32f9d50da) that explains it pretty well, although I would say (and Birkenbihl does, too) that this is not only valuable for conversations (transactions) with people we are very close to, but also very useful for work communication.

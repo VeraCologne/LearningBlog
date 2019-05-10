@@ -2,6 +2,8 @@
 layout: post
 title:  "The One Where I Start the Dashboard"
 date:   2019-05-02 10:55:00 +0200
+tags: 
+- apprenticeship
 ---
 
 I am jumping in. I feel a bit nervous because I just have never done this. I know, a programmer who has never written their own application, it's weird. But hey, better later than never, right? This is what I have done so far: 

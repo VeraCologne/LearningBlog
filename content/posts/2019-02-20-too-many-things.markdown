@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Too Many Things To Remember"
 date:   2019-02-20 14:13:47 +0100
+tags: 
+- architecture
 ---
 
 We have `Shared` Modules in our applications. Right now they just get copied around, we want to put them into a library or something like that later. For both copying and library it's important that no app-specific stuff is inside these modules. And I keep forgetting this.

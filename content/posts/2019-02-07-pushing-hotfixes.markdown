@@ -2,6 +2,8 @@
 layout: post
 title:  "The One Where I Push Some Hotfixes"
 date:   2019-02-07 18:13:47 +0100
+tags: 
+- tools
 ---
 
 Today was exciting! It started with a production deploy and running a script to add some data that had previously been gathered by a different application but is actually need in our application and belongs to one of our bounded contexts. The commits weren't big (and not mine, I think) and the script wasn't either and had been tested by one of our seniors on staging, so it wasn't really a big deal, but it felt cool to do something.

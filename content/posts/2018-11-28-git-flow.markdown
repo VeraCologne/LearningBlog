@@ -2,6 +2,8 @@
 layout: post
 title:  "The One with Git Flow"
 date:   2018-11-28 19:43:47 +0100
+tags: 
+- tools
 ---
 
 Today I did a lot of diverse stuff. I talked about my ideas for my learning path / kanban board with one of my mentors, I finally wrote a test for a small thing that I implemented last week (I wasn't sure whether to implement this in our specification which was not really set up to do this or just write a view test because that's where the calculation actually happens because it's not needed anywhere else), I added a last missing event to our current context/story, I mapped out the flow through our current context and I started defining some events that will be needed for integrating between contexts/teams soon.

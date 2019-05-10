@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With a Roadmap"
 date:   2019-01-30 08:13:47 +0100
+tags: 
+- apprenticeship
 ---
 
 In our rewiev/planning meeting on Monday we noticed that while planning the dashboard and continuing with my reading (that has in the last few weeks mostly consisted of what I *wanted* to read in that week) we have kind of lost sight of the topics that we had chosen for me to learn. Of course, the dashboard project is supposed to serve the purpose of learning these exact topics, but the connection wasn't really visible anymore.

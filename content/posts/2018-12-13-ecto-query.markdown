@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Ecto.Query"
 date:   2018-12-13 16:43:47 +0100
+tags: 
+- elixir
+- tools
 ---
 
 I have finally been able to refactor my two long, very similar queries into smaller, composable ones by reading through the Queries chapter in [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto) today.

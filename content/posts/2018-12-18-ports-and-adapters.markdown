@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Ports and Adapters"
 date:   2018-12-18 20:43:47 +0100
+tags: 
+- architecture
 ---
 
 In my quest to learn more about software architecture I have read about Hexagonal or Ports and Adapters architecture in [Implementing Domain-Driven Design](https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/) today. After reading, I took some notes on the main features of this architecture pattern and added some a screenshot from the book to help me remember everything better and to be able to discuss this in one of my review sessions.

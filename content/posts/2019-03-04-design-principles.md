@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Design Principles"
 date:   2019-03-04 18:13:47 +0100
+tags:
+- software design
 ---
 
 This one has a subtitle: "Or: Where I give up on the Imposter's Handbook". I just don't get it. Yes, I have heard about YAGNI and DRY and I do think I know what they mean, I have also heard about the Law of Demeter and I think the explanation in this book makes it clear what this means, but for the rest, I just don't understand it. I can't really read the code examples and the explanations around them are too short.

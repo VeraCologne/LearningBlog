@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With UML"
 date:   2019-02-21 12:13:47 +0100
+tags: 
+- architecture
 ---
 
 I read a bit about UML yesterday and today. After talking about architecture diagrams in general, my mentor suggested that I read a bit about UML's sequence diagram and component diagram so that I can use this when I get into modelling my dashboard application architecture.

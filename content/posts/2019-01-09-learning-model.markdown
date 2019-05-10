@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With My Learning Model"
 date:   2019-01-09 20:43:47 +0100
+tags: 
+- apprenticeship
 ---
 
 Today I had my second 1-on-1 with my new(ish) boss and we talked about my learning path and its structure so this is a good opportunity for me to lay this out here a bit. In this post I will talk about

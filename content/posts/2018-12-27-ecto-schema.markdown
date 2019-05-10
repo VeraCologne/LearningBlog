@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Ecto.Schema"
 date:   2018-12-27 20:43:47 +0100
+tags: 
+- elixir
+- tools
 ---
 
 After all the eating and mindless conversation during the Christmas days, I decided today is a good day to get back into doing something useful, so I read the Schema chapter in [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto).

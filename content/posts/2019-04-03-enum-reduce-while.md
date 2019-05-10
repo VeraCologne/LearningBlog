@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Enum.reduce_while"
 date:   2019-04-03 08:55:00 +0200
+tags: 
+  - elixir
+  - tools
 ---
 
 I have an irrational fear of reduce functions. I have needed to use `Enum.reduce()` a few times and it either did not work or I copied some code from somewhere else and managed to substitute what I needed.

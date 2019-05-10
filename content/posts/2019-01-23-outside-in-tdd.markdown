@@ -2,6 +2,8 @@
 layout: post
 title:  "The One Where I Struggle With Outside-In TDD"
 date:   2019-01-23 22:13:47 +0100
+tags: 
+- testing
 ---
 
 I have been trying to work my way into our application from the outside. We do Specification by Example (or at least trying to do some version of it), testing mostly what the user would see. And I do see a benefit in starting with a specification/feature test, and going deeper inside once the test is not giving me enough feedback anymore. So I try to implement every feature by writing the specification test first, then going to an application test, then the domain-service test and then back.

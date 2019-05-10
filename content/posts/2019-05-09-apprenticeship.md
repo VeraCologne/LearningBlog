@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With an Apprenticeship Kickoff"
 date:   2019-05-09 19:55:00 +0200
+tags: 
+- apprenticeship
+- studitemps
 ---
 
 We want to further promote some kind of apprenticeship/training programm in our department and yesterday was our kickoff meeting. There were some topics that were discussed that all fall under this wider concept but have some differences: 

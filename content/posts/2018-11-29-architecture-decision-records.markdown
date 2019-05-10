@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Architecture Decision Records"
 date:   2018-11-29 19:43:47 +0100
+tags:
+- architecture
 ---
 
 Today I learned about Architecture Decision Records and MECE for structuring lists in our department-wide Learning Hour that we do every other week.

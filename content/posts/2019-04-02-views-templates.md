@@ -2,6 +2,10 @@
 layout: post
 title:  "The One With Views and Templates"
 date:   2019-04-02 08:55:00 +0200
+tags: 
+  - elixir
+  - tools
+  - apprenticeship
 ---
 
 Before I paused working on my learning project, I looked into Phoenix a bit more in order to be able to draw my application models. Yesterday I spent some time with our frontend engineer, pairing on showing a calculation to the users of our application and we talked a bit about Phoenix and our application model.

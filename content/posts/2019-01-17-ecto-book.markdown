@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With the Ecto Book"
 date:   2019-01-17 15:13:47 +0100
+tags: 
+- elixir
+- books
 ---
 
 I finished reading [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto) today and wanted to write a short review for it.

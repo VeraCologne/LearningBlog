@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Agents and Supervisors"
 date:   2019-03-14 08:13:47 +0100
+tags: 
+- elixir
+- tools
 ---
 
 Yesterday I spent the whole day on finishing up my end-to-end test for an event publisher that I had written on Monday and on working through the gigantic amount of change requests for my pull request.

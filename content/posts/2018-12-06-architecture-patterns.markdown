@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With Architecture Patterns"
 date:   2018-12-06 19:43:47 +0100
+tags: 
+- architecture
 ---
 
 Today I read [this](https://www.oreilly.com/programming/free/software-architecture-patterns.csp) book about Software Architecture Patterns.

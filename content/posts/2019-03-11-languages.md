@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Languages"
 date:   2019-03-11 18:13:47 +0100
+tags: 
+- domain driven design
+- people
 ---
 
 We now have two devs in our department who don't speak German. So far, everything in this company and department was done in German. Office talk, Jira tickets, and even code in several variations. Our team took this to the extreme and decided that with our domain that is very particular to lot of German laws and with us wanting to do Domain-Driven Design, we are going to write our entire code in German. We've been doing this for a year now and it's sometimes still a bit difficult but it works for us. Other teams have made the decision to stop trying to translate very specific German words into English and just use theses words in their mainly English code base.

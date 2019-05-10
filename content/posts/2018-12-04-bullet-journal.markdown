@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With the Bullet Journal"
 date:   2018-12-04 19:43:47 +0100
+tags:
+- productivity
+- books
 ---
 
 I have started bullet journaling some years ago ([here is a brief introduction to it](https://www.youtube.com/watch?v=fm15cmYU0IM)). I got dragged into it by a YouTube video on this new way of organising your to-do lists, diary and events, with lots of pretty layouts and collections. I used this for some time for different purposes: I organised my classes, reading lists and assignments for university, had monthly layouts for planning events/appointments, logging my time and keeping a gratitude journal, as well as different collections for random things (in different variations of pretty/artsy).

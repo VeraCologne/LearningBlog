@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With a Presentation Preparation"
 date:   2019-01-31 18:13:47 +0100
+tags: 
+- studitemps
+- mindfulness
 ---
 
 We are going to have our quarterly company-wide Open Space tomorrow. Almost 300 people from all of our 21 branches across Germany will come to Cologne to do an Open Space together and a big 90s party in the evening.

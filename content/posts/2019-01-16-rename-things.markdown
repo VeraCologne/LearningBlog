@@ -2,6 +2,8 @@
 layout: post
 title:  "The One Where We Rename Things"
 date:   2019-01-16 21:13:47 +0100
+tags: 
+- architecture
 ---
 
 We recently discovered a naming problem in one of our applications where we calculate costs for cost units. Up until now, the data needed for the calculations was set for these cost units, but this does not actually make a lot of sense. The data comes from an and there are many other things that factor into the calculations for the cost unit.

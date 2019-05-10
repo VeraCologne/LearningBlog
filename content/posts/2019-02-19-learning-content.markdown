@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With the Learning Content"
 date:   2019-02-19 18:13:47 +0100
+tags: 
+- apprenticeship
 ---
 
 We talked about my User Stories yesterday and decided they are okay to start with, from a functional perspective. But the actual reason for me implementing them wasn't written down anywhere. I had chosen those stories mainly for their technical differences so I could learn as much as possible from them.

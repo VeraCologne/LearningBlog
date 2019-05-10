@@ -2,6 +2,10 @@
 layout: post
 title:  "The One With the Open Space Session"
 date:   2019-02-03 18:13:47 +0100
+tags: 
+- agile
+- studitemps
+- mindfulness
 ---
 
 We had our Open Space on Friday and I actually ended up doing two sessions because I felt the board wasn't full enough so I added another session, about Bullet Journals. It wasn't really good though. I was very unprepared and had a giant headache from spending too much time in small meeting rooms.

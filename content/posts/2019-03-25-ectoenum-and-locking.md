@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With EctoEnum and Locking"
 date:   2019-03-25 18:13:47 +0100
+tags: 
+  - elixir
+  - tools
 ---
 
 Long time no blog post. Last week was hectic. Did I talk about the new deadline yet? It's actually closer to a deadline than whatever the first one was. We have to be done with a pretty hefty new application at the beginning of April. We are making some concessions to our sleek architecture along the way. We are pretty sure that we have not yet understood everything that is needed for our users' process. We have cancelled all non-deadline-relevant events. My mentoring meetings have not explicitly been cancelled but I don't really have time to prepare for them and I don't want to take people out of their flow, so I have cancelled the calendar events.

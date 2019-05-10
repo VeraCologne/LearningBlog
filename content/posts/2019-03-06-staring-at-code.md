@@ -2,6 +2,9 @@
 layout: post
 title:  "The One Where I Should Stare at Code"
 date:   2019-03-05 21:13:47 +0100
+tags: 
+- apprenticeship
+- mindfulness
 ---
 
 In my mentoring session today we talked about my struggles with understanding Design Patterns and Principles and books about (Functional) Programming.

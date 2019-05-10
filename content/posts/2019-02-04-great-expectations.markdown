@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Great Expectations"
 date:   2019-02-03 18:13:47 +0100
+tags: 
+- communication
+- apprenticeship
 ---
 
 Today I learned that I expect too much from myself and others.

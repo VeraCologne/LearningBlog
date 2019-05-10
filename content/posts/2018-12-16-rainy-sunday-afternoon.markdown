@@ -2,6 +2,8 @@
 layout: post
 title:  "The One Where I Try to Learn on a Rainy Sunday Afternoon"
 date:   2018-12-16 16:43:47 +0100
+tags: 
+- books
 ---
 
 I tried to read the chapter on Lambda Calculus in the Imposter's Handbook today and it made me feel like a complete idiot. I did not understand anything beyond the first few pages.

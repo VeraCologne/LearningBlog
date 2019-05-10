@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With People and Processes"
 date:   2018-12-17 16:43:47 +0100
+tags: 
+- people
+- testing
 ---
 
 In the past few weeks our main focus was on integrating two of our bounded contexts with each other. We are in the last months of getting rid of a grand old monolith and replacing it with a domain-driven, event-focused, modular architecture. Our team has spent a good part of this year on an application that generates bills for our clients and since this is at the very end of our business process, we built it so that it integrated with the old monolith so the users were able to test it way before the core domain applications were built.

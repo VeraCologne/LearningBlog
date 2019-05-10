@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With a Postgres GUI"
 date:   2019-04-11 08:55:00 +0200
+tags: 
+- tools
 ---
 
 Loosely related to my pledge to myself not to hurry things anymore, I have taken some time to look into Postgres GUIs. I have never had one, always queried the database from the command line but I do see that it becomes a bit difficult with longer queries and I just don't understand the structure of all the events stuff (especially when using Commanded) so I've always pushed questions about this to someone else.

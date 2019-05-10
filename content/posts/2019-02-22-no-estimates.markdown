@@ -2,6 +2,8 @@
 layout: post
 title:  "The One With(out) Estimates"
 date:   2019-02-22 12:13:47 +0100
+tags: 
+- agile
 ---
 
 Yesterday I went to a [meetup about #NoEstimates](https://www.meetup.com/ThoughtWorksKoeln/events/258989967/), played the [NoEstimates game](https://noestimates.wordpress.com/get-the-noestimates-game/) and learned a bit about forecasting.

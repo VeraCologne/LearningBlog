@@ -2,6 +2,10 @@
 layout: post
 title:  "The One Where It's Not a Dealine"
 date:   2019-04-10 08:55:00 +0200
+tags: 
+- agile
+- people
+- methods
 ---
 
 First day after the deadline: There is something (we haven't really talked about until now) that apparently needs to be done in 3 weeks. Some protesting of another deadline lead "I'm deliberately not calling it a deadline, but a *Stichtag*". Well, have you tried translating that word?

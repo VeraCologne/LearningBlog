@@ -2,6 +2,9 @@
 layout: post
 title:  "The One With Static Websites"
 date:   2019-04-05 08:55:00 +0200
+tags: 
+- blog
+- tools
 ---
 
 A few weeks ago I told one of our frontend devs about my problem with this blog and its pagination. I actually don't really remember what the exact problem was but it seems that with my setup of Jekyll and GitHub Pages I can't do pagination. He told me to look into Hugo and Netlify (which I had heard of before but was too  lazy to check out) and then said he could do a talk about this. Yay!

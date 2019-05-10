@@ -2,6 +2,10 @@
 layout: post
 title:  "The One With the Open Space in Berlin"
 date:   2019-05-08 19:55:00 +0200
+tags: 
+- studitemps
+- agile
+- mindfulness
 ---
 
 Yesterday was our 13th company-wide Open Space and the first one not done in our headquarters in Köln but in our office in Berlin. I already spent Monday in their office with my coworker who organises the Open Space and it was quite nice. They have a few small, empty offices because they have decided to use the big space as an office where everyone sits together, so we could enjoy a day in blissful silence. I really want a team office. 
