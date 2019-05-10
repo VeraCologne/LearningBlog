@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "The One With Ecto.Repo"
+date:   2018-12-11 16:43:47 +0100
+---
+
+In order to work on my knowledge gap about Ecto Queries that I mentioned yesterday, I started reading [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto). I have started at the beginning, as the introduction chapter advises to and have read about Ecto.Repo today and I have to admit that my mind feels a bit blown right now.
+
+I had never taken the time before to look into Ecto's Documentation when I wasn't looking for the answer to a specific problem. Therefore, I have read a bit about the Query, Changest and Schema modules, but I just never came across a problem with the Repo module, so I never looked into it. First big learning moment: Look into the documentation of every important aspect of a library you are working with!
+
+Second big learning moment: Repo has an `aggregate` function! I needed to count some things in some databases several times in the past few weeks and I used Ecto's Query module to do that. I actually had to google how to do counting operations with Ecto.Query, but I never tried approaching this in another way.
+
+So instead of something like
+```
+import Ecto.Query             
+Application.Repo.all(from foo in Application.ReadModel, select: count(foo.id))
+```
+
+I can just type
+```
+Application.Repo.aggregate(Application.ReadModel, :count, :id)
+```
+
+So much easier and less error prone!
+
+I feel very stupid and very enlightened at the same time.
+
+And now I'm off to the Christmas Market for our office Christmas party. Cheers.

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "The One With UML"
+date:   2019-02-21 12:13:47 +0100
+---
+
+I read a bit about UML yesterday and today. After talking about architecture diagrams in general, my mentor suggested that I read a bit about UML's sequence diagram and component diagram so that I can use this when I get into modelling my dashboard application architecture.
+
+I have googled around a bit and read some articles and I think that the IBM "UML basics" [blogpost series](https://www.ibm.com/developerworks/rational/library/769.html?ca=drs-) is really good. It is written in a way that is very understandable but does not add too much unnecessary stuff and the pictures fit the text (I've seen weird things in other articles ...) and makes it even easier to understand.
+
+So far I have only read the article about sequence and component diagrams because I didn't feel like I needed an introduction (UML is one of the few things I remember learning about at university) but I liked the texts so much that I will now read the introduction and the article about the class diagram as well, to refresh my knowledge a bit.

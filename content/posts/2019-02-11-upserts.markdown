@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The One With Upserts"
+date:   2019-02-11 20:13:47 +0100
+---
+
+I was able to successfully use an upsert in one of our main applications, on my own, on the third (or so) try today.
+
+I think my problems before actually had nothing to do with the upsert itself but were always another problem, like using changesets in a way that Ecto doesn't like or something completely weird. But my (actually our) repeated failure to do a simple upsert made me a bit anxious today about tackling this part of the story I was working on.
+
+But I just wrote a failing test that told me I was trying to insert something with a unique constraint and then just went from what the following error messages told me, while looking at Ecto.Repo's documentation.
+
+#### Today's Learning 
+Sometimes things aren't *always* difficult. There might just have been something weird or extraordinarily difficult going on the last time you did something kind of similar. Just try again and see if this time, your code behaves more nicely.

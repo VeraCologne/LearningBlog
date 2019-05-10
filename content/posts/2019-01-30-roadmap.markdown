@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "The One With a Roadmap"
+date:   2019-01-30 08:13:47 +0100
+---
+
+In our rewiev/planning meeting on Monday we noticed that while planning the dashboard and continuing with my reading (that has in the last few weeks mostly consisted of what I *wanted* to read in that week) we have kind of lost sight of the topics that we had chosen for me to learn. Of course, the dashboard project is supposed to serve the purpose of learning these exact topics, but the connection wasn't really visible anymore.
+
+My mentor suggested that I draft a roadmap for my learning project. At first I was a bit apprehensive about this: I can't really imagine what exactly I will have to do for the dashboard project and how much time it will take me to learn the different topics to a point where I am happy to leave them behind for a while. And I was a bit confused because I thought the reason for us mapping out the topics the way we did was partly to *not* hat any time-based goals that make me feel anxious about being able to achieve them (or let others see that I am *not* achieving them and "sanction" me for this.
+
+But he convinced me that this is not a problem I alone am facing. No one who makes a roadmap really knows how long it will take. But it helps to have some sort of a guideline, to see the medium-sized steps that I will have to take in the next few months. And it is something that we can revisit every week or month to see where we need to shift things back (or just around). The part about being worried about not achieving the goals and being somehow penalised for this is clearly just my anxiety speaking, that I need to get some more control of anyway.
+
+So I drafted a roadmap yesterday. I now have a rough plan for the dashboard up until the middle of the year (for the first 2 epics), a second lane in the roadmap for the theoretical topics that I will learn by doing the dashboard, and a third for things that are not clearly connected to the dashboard but that I want to learn anyway, like working on my communication skills, managing my workload better and doing things like presenting, speaking in public and so on. And I actually like it now.
+
+#### Things I don't know much about:
+- This stupid blog. I have put a dozen of .scss files in various locations in this project and none of them does anything. I think I followed the instructions on both the Jekyll site and Github's page about Jekyll but it doesn't work. I also realised that I have no idea how to add images. I have actually done this before, in another project, but I don't understand it anymore. I also really need some pagination for the blog's main page, but I haven't even found the time to look into this at all.
+(Edit: I can haz CSS! I asked one of our frontend guys, he looked almost as confused as me at the setup of this project, but we again did a bunch of renaming and reordering of .scss files and it looks like it worked? I'm a bit sceptical, but I'm keeping my fingers crossed – especially for pushing this to Github. Now I just need to go back through all the posts that I have written in various ways and see if I can create a layout that doesn't make me want to barf.)

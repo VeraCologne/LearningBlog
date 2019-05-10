@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The One Where I Read About Health"
+date:   2019-02-16 14:13:47 +0100
+---
+
+I spent the last 2 days in hospital with what turned out to be a minor pancreatic inflammation. While I was waiting in some hall for a sonograph or CAT scan or something like that, I texted a coworker to ask for a book recommendation that was easily readable (I can't read code examples on a small screen and while I'm being interrupted multiple times). One of the books he suggested was [The Healthy Programmer](https://pragprog.com/book/jkthp/the-healthy-programmer) by Joe Kutner and that seemed like the perfect book to read when you are in hospital with weird symptoms.
+
+I loved the book. There were no really new concepts in there for me, but the way it was presented is just great. It has 12 chapters that iteratively teach the reader about important health concepts, starting from how to make changes at all through dieting and different levels of fitness to preventing common problems and spreading a healthy mindset among you peers. It encourages the reader to do a daily health standup, set iterative goals and do a retrospective on their progress every two weeks. There is a lot of information on research concerning the different topics in the main part of each chapter, with a recap and actionable steps at the end. I have taken lots of notes and will try to follow Kutner's suggestions from now on.

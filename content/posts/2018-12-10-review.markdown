@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "The One With the Review"
+date:   2018-12-10 17:43:47 +0100
+---
+
+Today I had two types of review: The one for our sprint and the review/planning session for my learning project.
+
+We do a sprint review every other week on Monday where all of our 4 scrum teams present what they did during their last sprint, gather feedback from stakeholders and other attendants and give an outlook on what they will be working on next. We do one review for all teams and all stakeholders (so potentially everyone in the company) because we are working on one product with different parts. This has the benefit that potentially everyone in the company knows what is going on, what will come next and how they can provide feedback. There's also a disadvantage: If a lot of the focus of one sprint (for one team or more than one team) deals with a part of the product that only one department will be working with, it gets boring or takes up a lot of "unnecessary" time for the attendants of other departments. We try to reduce this by communicating what we are going to talk about beforehand but we can definitely get better with this.
+
+I am responsible for presenting my team's part of the review. Today that was a bit difficult because we have implemented some features that can only be released as a whole and we are not quite done yet. So I only mentioned that this is was what we were mainly working on and explained why we don't think it's a good idea to show this right now because it will change one department's process, but we could not present the whole process. This led to some questions that I had to answer without being able to show something which was difficult for me and probably unsatisfying for the person asking the question.
+
+I think this is something that we should be working on:
+1. clearer communication what we are going to show and who will be affected by this
+2. focus our sprints on having something that can be shown at the end
+
+I also had my weekly meeting with one of my mentors where we went through last week's task and planned the ones for this week. Some things I took away from that:
+- We weren't really sure about the structure of these meetings but we thing it's a good idea to do it like we did today:
+  - review the tasks from last week and see if anything has come up that needs further attention
+  - talk about specific next steps that come from these tasks
+  - plan other tasks for the next week
+  - talk about (unrelated) problems/questions that I have
+- We have compiled a list of potential practice projects and I thought we were going to choose one and then start implementing it. Another idea came up: Choose 3 of them, do only a rough analysis/planning and then try to model architecture that would be good for this project. This is something that I have never done and that I found quite incomprehensible when we have done this for the last applications that we have started building.
+- I should take more notes on what I have been doing for specific tasks so that I can explain something that I have learned quickly and am able to ask questions right away.
+
+#### Things I don't know much about:
+- Ecto Queries. I am going to read the first two chapters of Programming Ecto to improve this situation.
+- Scrum Values. We talked about scrum values in our retrospective and I could neither name the values nor explain what they mean in the context of Scrum. I wasn't the only one but still, I should probably take a look into the Scrum Guide again.

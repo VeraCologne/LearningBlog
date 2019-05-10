@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "The One with Git Flow"
+date:   2018-11-28 19:43:47 +0100
+---
+
+Today I did a lot of diverse stuff. I talked about my ideas for my learning path / kanban board with one of my mentors, I finally wrote a test for a small thing that I implemented last week (I wasn't sure whether to implement this in our specification which was not really set up to do this or just write a view test because that's where the calculation actually happens because it's not needed anywhere else), I added a last missing event to our current context/story, I mapped out the flow through our current context and I started defining some events that will be needed for integrating between contexts/teams soon.
+
+I learned something from everything I did, but the main thing that stuck with me was when we set up git flow for me. We are currently working mostly trunk-based, after one of our colleagues did some convincing for months and we all heard different talks/discussions about trunk-based development, often as the opposite of a git flow workflow. I'm happy with our current setup of very short-lived feature branches with a lot done directly in our develop branch, although we are still working on finding a way to do code reviews efficiently without pull requests. Our develop branch is automatically deployed to our staging environment for testing (as long as all tests are green) and if we want to deploy something to production, we merge it into master and push the changes manually. And after we decided against a need to tag releases (since Heroku does this anyways and we don't need a git tag for analysis purposes or anything), there was no apparent need for git flow as just a release helper, either.
+
+Something else that we have started to do (very recently) is to add release notes directly inside our applications. Yesterday we talked about how to add these with minimal effort but without forgetting them. We settled on adding the text for features to be released to the application while doing code review / testing but without the release date. This would be the task for whoever actually pushes to production. My other coworker who was still using git flow for every "release" made a case for using git flow to help with this: You can add hooks for git flow steps. My setup now is to just echo a reminder to add the date to the release notes in my "post-flow-release-start" hook. I need to play around with this a bit to make it stand out more, but I really like this thingy.
+
+And finally we set up fish to use atom as my git editor because I just have no intentions of dealing with vim if there's any way to avoid it. I recently completely reset my Mac because it was incredibly slow and battery-draining and I lost all my fish config and I can't get it back to where it was (I had such a beautiful prompt!), but now at least one thing is working again.
+
+I have read "Apprenticeship Patterns" at the beginning of the year (more on this later, maybe) and I think I want to add an Expose Your Ignorance section to this blog. So here is the first one:
+
+#### Things I don't really know much about:
+- Fish shell. I started using this after SoCraTes last year and somehow set up a beautiful prompt during a very long train ride, but aside from that, I'm pretty much lost. I can't do anything without googling first.
+- JSON-LD. We want to use this for exchanging events between contexts and when I asked a question about naming something inside an event (my question was actually about semantics / domain language), I was told that this might be a problem with JSON-LD. I have no idea what that means.
+- Ways to visualise models/domains/contexts. I talked to my mentor about my struggles to understand the setup for our newest context and how I can't seem to find a way to visualise this for myself. He suggested to just do something so we can talk about this tomorrow. I decided on using a ports-and-adapters diagram to model what is inside our context right now (it's more or less one feature at the moment), but I want to look into ways to visualise this in a way that makes it easier for me to understand what is going on.
+- Event publishing. I basically copied what my coworker did yesterday for a similar event that I was working on today. I don't really know what I did there.

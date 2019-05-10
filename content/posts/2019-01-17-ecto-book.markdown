@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The One With the Ecto Book"
+date:   2019-01-17 15:13:47 +0100
+---
+
+I finished reading [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto) today and wanted to write a short review for it.
+
+I would recommend this book to anyone using Ecto with their Elixir application. It provides a good overview of the most important aspects of Ecto and does so in a way that is very easy to understand and to follow along. It has nice code examples that can be used to code along.
+
+I liked the Fundamentals part more than the second one. It covers the core features in depth and I learned many new things that have sharpened my understanding of Ecto and how we use it in our applications. The second part focusses on aspects like using Ecto with or without Phoenix, running tests asynchronously, using custom types for database values, upserts and polymorphic associations. It does so on a very high level, though, so I did not feel like I could learn many new things and really understand what I had read.
+
+There was a real gem in the second part, though. A tiny chapter called "Optimizing IEx for Ecto" that explains how the `.iex.exs` file works. IEx looks for this file when launching and evaluates it in the same environment as the console session. This means that you can define often-used aliases, imports and functions for example for preloading there and they are available in every IEx session. I often forget to import Ecto.Query and get annoyed by the error message I get when trying to query something. Never bothered me enough to look for a solution, though. And it's very useful to alias every important second-level module so I don't have to type in the application name tons of times. Made my day.
