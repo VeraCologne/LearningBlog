@@ -84,6 +84,19 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
+[[menu.main]]
+name = "Home"
+identifier = "home"
+url = "/"
+
+
+[[menu.main]]
+name = "Posts"
+identifier = "posts"
+url = "/posts/"
+
+
+
 [blackfriday]
 hrefTargetBlank = true
 
