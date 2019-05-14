@@ -16,7 +16,7 @@ Instead of a synchronous process it will now become a managed process. When the 
 We tried to model this on a big whiteboard. And it got complicated:
 ![Process Model](/images/posts/2019-05-14-model.jpg)
 
-I lost track of the discussion several times. I tried to ask questions to get back into the modelling a few times, but ultimately decided it's not useful. We have decided to be very strict about pairing this sprint, so if the 2 senior backend devs understand their model, I might be able to learn it while implementing? My team members weren't happy with that. 
+I lost track of the discussion several times. I tried to ask questions to get back into the modelling a few times, but ultimately decided it's not useful. We have decided to be very strict about pairing this sprint, so if the 2 senior backend devs understand their model, I might be able to learn it while implementing? My team mates weren't happy with that. 
 
 Another *people problem* we have: I think I tend to ask for validation too much. I often get a reply telling me to decide for myself. Which is useful for learning, I guess, but difficult for me emotionally sometimes. Today it was the other way around: I was asked if I wanted to go through the process again in order for me to understand it better. I decided that this time-consuming action was not valuable enough for me, so I said no. The coworker who asked didn't like that answer. And he probably knows better and I would really learn from it, I just can't see the real benefit because of my lack of experience. But still, it's a bit hard to tell when I am supposed to decide for myself and when I should ask for advice instead of deciding. We'll work on that, I guess.
 
