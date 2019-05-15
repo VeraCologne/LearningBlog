@@ -1,6 +1,6 @@
 ---
 title: "The One With a Developer Exchange"
-date: 2019-05-14T13:33:53+02:00
+date: 2019-05-15T16:13:53+02:00
 tags: 
 - studitemps
 - people
