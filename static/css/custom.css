@@ -3,7 +3,7 @@
     margin-right: 2em;
 }
 
-p a, {
+.entry-content a {
     color: #46DCC3;
 }
 
