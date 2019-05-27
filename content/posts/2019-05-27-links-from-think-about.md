@@ -65,3 +65,12 @@ I took so many notes and pictures from slides at the talks last week so I am jus
 - [Open Knowledge Foundation](https://okfn.de/)
 - [Code for Germany](https://codefor.de/)
 - [Open Source Diversity](https://opensourcediversity.org/)
+
+**Gerri Buchegger: Produkte gegen die eigene Moral**
+ 
+- [Hans Jonas: Das Prinzip Verantwortung](https://www.suhrkamp.de/buecher/das_prinzip_verantwortung_39992.html)
+
+**Vim Appadoo: Design, Diversity and Tech - How to use your power**
+
+- [HBR: Cultural Intelligence](https://hbr.org/2004/10/cultural-intelligence)
+- 
