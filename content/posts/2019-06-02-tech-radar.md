@@ -1,6 +1,6 @@
 ---
 title: "The One With a Tech Radar"
-date: 2019-05-27T09:13:53+02:00
+date: 2019-06-02T17:13:53+02:00
 tags: 
 - events
 - tools
