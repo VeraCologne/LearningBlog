@@ -6,7 +6,6 @@
 .entry-content a {
     border-bottom: none;
     color: #46DCC3;
-
 }
 
 .entry-content a:hover {
@@ -17,3 +16,12 @@
     margin: -1em 0 1.5em 1.5em 
 }
 
+.entry-content code {
+    font-size: 0.7em;
+}
+
+pre {
+    padding: 0.5em 0 0.5em 1em;
+    margin: 0 0 1em 0;
+    line-height: 1.2;
+}
