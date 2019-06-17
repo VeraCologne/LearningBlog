@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With an Architecture Diagram"
+title:  "The One with an Architecture Diagram"
 date:   2019-03-05 21:13:47 +0100
 tags: 
 - architecture

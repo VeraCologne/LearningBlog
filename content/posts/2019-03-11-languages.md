@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Languages"
+title:  "The One with Languages"
 date:   2019-03-11 18:13:47 +0100
 tags: 
 - domain driven design

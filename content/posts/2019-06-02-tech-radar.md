@@ -1,5 +1,5 @@
 ---
-title: "The One With a Tech Radar"
+title: "The One with a Tech Radar"
 date: 2019-06-02T17:13:53+02:00
 tags: 
 - events

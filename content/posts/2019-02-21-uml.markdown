@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With UML"
+title:  "The One with UML"
 date:   2019-02-21 12:13:47 +0100
 tags: 
 - architecture

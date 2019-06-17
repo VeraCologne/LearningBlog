@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Associations and Joins"
+title:  "The One with Associations and Joins"
 date:   2019-02-12 17:13:47 +0100
 tags: 
   - elixir

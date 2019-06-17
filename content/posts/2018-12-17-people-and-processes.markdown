@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With People and Processes"
+title:  "The One with People and Processes"
 date:   2018-12-17 16:43:47 +0100
 tags: 
 - people

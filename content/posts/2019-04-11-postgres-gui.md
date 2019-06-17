@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With a Postgres GUI"
+title:  "The One with a Postgres GUI"
 date:   2019-04-11 08:55:00 +0200
 tags: 
 - tools

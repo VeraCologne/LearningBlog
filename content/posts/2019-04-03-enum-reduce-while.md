@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Enum.reduce_while"
+title:  "The One with Enum.reduce_while"
 date:   2019-04-03 08:55:00 +0200
 tags: 
   - elixir

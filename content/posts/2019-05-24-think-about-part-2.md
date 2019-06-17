@@ -1,5 +1,5 @@
 ---
-title: "The One Where I Think About Privacy and Diversity"
+title: "The One where I Think About Privacy and Diversity"
 date: 2019-05-24T19:13:53+02:00
 tags: 
 - events

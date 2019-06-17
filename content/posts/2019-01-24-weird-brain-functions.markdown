@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Weird Brain Functions"
+title:  "The One with Weird Brain Functions"
 date:   2019-01-24 18:13:47 +0100
 tags: 
 - mindfulness

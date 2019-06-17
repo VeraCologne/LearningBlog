@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Our Department Retrospective"
+title:  "The One with Our Department Retrospective"
 date:   2019-03-08 14:13:47 +0100
 tags: 
 - agile

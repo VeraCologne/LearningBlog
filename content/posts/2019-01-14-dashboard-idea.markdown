@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With the Dashboard Idea"
+title:  "The One with the Dashboard Idea"
 date:   2019-01-14 21:43:47 +0100
 tags: 
 - apprenticeship

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With the Learning Content"
+title:  "The One with the Learning Content"
 date:   2019-02-19 18:13:47 +0100
 tags: 
 - apprenticeship

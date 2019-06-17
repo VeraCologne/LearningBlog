@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Views and Templates"
+title:  "The One with Views and Templates"
 date:   2019-04-02 08:55:00 +0200
 tags: 
   - elixir

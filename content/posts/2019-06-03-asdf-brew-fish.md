@@ -1,5 +1,5 @@
 ---
-title: "The One With Homebrew, Fish and asdf"
+title: "The One with Homebrew, Fish and asdf"
 date: 2019-06-03T09:13:53+02:00
 tags: 
 - tools

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With the Open Space in Berlin"
+title:  "The One with the Open Space in Berlin"
 date:   2019-05-08 19:55:00 +0200
 tags: 
 - studitemps

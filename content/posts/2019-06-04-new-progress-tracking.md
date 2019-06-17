@@ -1,5 +1,5 @@
 ---
-title: "The One With Progress Tracking"
+title: "The One with Progress Tracking"
 date: 2019-06-04T09:13:53+02:00
 tags: 
 - apprenticeship

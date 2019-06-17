@@ -1,5 +1,5 @@
 ---
-title: "The One With a Barcamp about Communication"
+title: "The One with a Barcamp about Communication"
 date: 2019-05-23T07:13:53+02:00
 tags: 
 - events

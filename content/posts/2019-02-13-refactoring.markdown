@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Refactoring"
+title:  "The One with Refactoring"
 date:   2019-02-13 17:13:47 +0100
 tags: 
 - apprenticeship

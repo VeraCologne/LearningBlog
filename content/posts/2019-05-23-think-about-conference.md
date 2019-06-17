@@ -1,5 +1,5 @@
 ---
-title: "The One Where I Think About Tech and Society"
+title: "The One where I Think About Tech and Society"
 date: 2019-05-23T19:13:53+02:00
 tags: 
 - events

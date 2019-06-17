@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Ecto.Schema"
+title:  "The One with Ecto.Schema"
 date:   2018-12-27 20:43:47 +0100
 tags: 
 - elixir

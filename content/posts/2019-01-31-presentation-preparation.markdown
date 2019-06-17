@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With a Presentation Preparation"
+title:  "The One with a Presentation Preparation"
 date:   2019-01-31 18:13:47 +0100
 tags: 
 - studitemps

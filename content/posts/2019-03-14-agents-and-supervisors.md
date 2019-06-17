@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Agents and Supervisors"
+title:  "The One with Agents and Supervisors"
 date:   2019-03-14 08:13:47 +0100
 tags: 
 - elixir

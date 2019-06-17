@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Ecto.Query"
+title:  "The One with Ecto.Query"
 date:   2018-12-13 16:43:47 +0100
 tags: 
 - elixir

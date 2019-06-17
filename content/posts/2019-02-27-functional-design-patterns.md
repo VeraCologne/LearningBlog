@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Functional Design Patterns"
+title:  "The One with Functional Design Patterns"
 date:   2019-02-27 12:13:47 +0100
 tags: 
 - patterns

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Sketching For UX"
+title:  "The One with Sketching For UX"
 date:   2019-02-06 18:13:47 +0100
 tags: 
 - ux

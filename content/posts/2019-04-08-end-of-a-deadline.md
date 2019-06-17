@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With the End of a Deadline"
+title:  "The One with the End of a Deadline"
 date:   2019-04-08 08:55:00 +0200
 tags: 
 - studitemps

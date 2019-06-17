@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With the Bullet Journal"
+title:  "The One with the Bullet Journal"
 date:   2018-12-04 19:43:47 +0100
 tags:
 - productivity

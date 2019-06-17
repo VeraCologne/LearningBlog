@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Architecture Decision Records"
+title:  "The One with Architecture Decision Records"
 date:   2018-11-29 19:43:47 +0100
 tags:
 - architecture

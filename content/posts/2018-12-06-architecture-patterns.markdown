@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Architecture Patterns"
+title:  "The One with Architecture Patterns"
 date:   2018-12-06 19:43:47 +0100
 tags: 
 - architecture

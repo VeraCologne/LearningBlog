@@ -1,5 +1,5 @@
 ---
-title: "The One With Phoenix Conn.Test"
+title: "The One with Phoenix Conn.Test"
 date: 2019-06-05T19:13:53+02:00
 tags: 
 - apprenticeship

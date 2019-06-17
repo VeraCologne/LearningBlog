@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Design Principles"
+title:  "The One with Design Principles"
 date:   2019-03-04 18:13:47 +0100
 tags:
 - software design

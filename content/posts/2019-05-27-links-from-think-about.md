@@ -1,5 +1,5 @@
 ---
-title: "The One With Links from Think About"
+title: "The One with Links from Think About"
 date: 2019-05-27T09:13:53+02:00
 tags: 
 - events

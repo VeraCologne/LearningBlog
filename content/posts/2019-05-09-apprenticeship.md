@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With an Apprenticeship Kickoff"
+title:  "The One with an Apprenticeship Kickoff"
 date:   2019-05-09 19:55:00 +0200
 tags: 
 - apprenticeship

@@ -1,5 +1,5 @@
 ---
-title: "The One With Atomic Habits"
+title: "The One with Atomic Habits"
 date: 2019-06-12T14:13:53+02:00
 tags: 
 - apprenticeship

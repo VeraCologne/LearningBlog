@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where I Try to Learn on a Rainy Sunday Afternoon"
+title:  "The One where I Try to Learn on a Rainy Sunday Afternoon"
 date:   2018-12-16 16:43:47 +0100
 tags: 
 - books

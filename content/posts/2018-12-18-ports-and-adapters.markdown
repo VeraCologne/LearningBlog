@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Ports and Adapters"
+title:  "The One with Ports and Adapters"
 date:   2018-12-18 20:43:47 +0100
 tags: 
 - architecture

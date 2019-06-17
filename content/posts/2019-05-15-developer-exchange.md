@@ -1,5 +1,5 @@
 ---
-title: "The One With a Dev Swap"
+title: "The One with a Dev Swap"
 date: 2019-05-15T16:13:53+02:00
 tags: 
 - studitemps
@@ -24,7 +24,7 @@ While moving through the different parts of the application that needed to be ch
 In the afternoon we wrote tests for the features which also led us to talking about how we test: 
 
 - Test first/last: John writes implementation code first and tests last, I try to write tests first and I think the rest of my team does this even more than I do. 
-- Outside-in vs. inside-out: He usually starts with unit tests, in my team we have one person who starts with unit tests and one who starts with the most-outside test possible, I do a mix, I think (see [The One Where I Struggle With Outside-In TDD](/posts/2019-01-23-outside-in-tdd)).
+- Outside-in vs. inside-out: He usually starts with unit tests, in my team we have one person who starts with unit tests and one who starts with the most-outside test possible, I do a mix, I think (see [The One where I Struggle With Outside-In TDD](/posts/2019-01-23-outside-in-tdd)).
 - How to make sure your test tests what it is supposed to test: Especially when writing tests after the implementation, how do you make sure you don't have a false positive (by changing the expected return value usually).
 - Testing events: Which fields of the events do we test? How do we test internal vs. external events? 
 - Running the test suite: He runs only the test file he added/changed because running the whole suite takes too much time. He then pushes his changes and later checks if his build is red. That only works when you are working on your own in a feature branch, I guess. And fortunately, most of our applications are so small that running all tests only takes as long as checking if there are any new slack messages. 

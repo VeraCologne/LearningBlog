@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With EctoEnum and Locking"
+title:  "The One with EctoEnum and Locking"
 date:   2019-03-25 18:13:47 +0100
 tags: 
   - elixir

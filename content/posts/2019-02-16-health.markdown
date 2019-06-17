@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where I Read About Health"
+title:  "The One where I Read About Health"
 date:   2019-02-16 14:13:47 +0100
 tags: 
 - mindfulness

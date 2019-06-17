@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Without Implementing Domain-Driven Design"
+title:  "The One without Implementing Domain-Driven Design"
 date:   2019-01-02 15:43:47 +0100
 tags: 
 - domain driven design

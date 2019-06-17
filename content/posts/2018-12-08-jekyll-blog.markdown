@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With the Jekyll Blog"
+title:  "The One with the Jekyll Blog"
 date:   2018-12-08 19:43:47 +0100
 tags: 
 - blog

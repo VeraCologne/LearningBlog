@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Static Websites"
+title:  "The One with Static Websites"
 date:   2019-04-05 08:55:00 +0200
 tags: 
 - blog

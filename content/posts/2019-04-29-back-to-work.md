@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where I Go Back to Work"
+title:  "The One where I Go Back to Work"
 date:   2019-04-29 19:55:00 +0200
 tags: 
 - extreme programming

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With(out) Estimates"
+title:  "The One with(out) Estimates"
 date:   2019-02-22 12:13:47 +0100
 tags: 
 - agile

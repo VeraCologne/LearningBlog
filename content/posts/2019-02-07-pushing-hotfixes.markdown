@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where I Push Some Hotfixes"
+title:  "The One where I Push Some Hotfixes"
 date:   2019-02-07 18:13:47 +0100
 tags: 
 - tools

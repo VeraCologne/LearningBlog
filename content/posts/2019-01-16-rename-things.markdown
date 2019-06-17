@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where We Rename Things"
+title:  "The One where We Rename Things"
 date:   2019-01-16 21:13:47 +0100
 tags: 
 - architecture

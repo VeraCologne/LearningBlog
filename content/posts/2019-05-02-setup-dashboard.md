@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where I Start the Dashboard"
+title:  "The One where I Start the Dashboard"
 date:   2019-05-02 10:55:00 +0200
 tags: 
 - apprenticeship

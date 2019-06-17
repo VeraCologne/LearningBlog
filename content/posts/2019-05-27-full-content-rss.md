@@ -1,5 +1,5 @@
 ---
-title: "The One With Full Content in RSS"
+title: "The One with Full Content in RSS"
 date: 2019-05-27T13:13:53+02:00
 tags: 
 - blog

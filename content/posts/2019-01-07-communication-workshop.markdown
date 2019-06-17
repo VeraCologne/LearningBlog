@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With a Communication Workshop"
+title:  "The One with a Communication Workshop"
 date:   2019-01-07 22:43:47 +0100
 tags: 
 - communication

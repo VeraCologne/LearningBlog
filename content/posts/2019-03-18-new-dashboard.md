@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With a New Dashboard"
+title:  "The One with a New Dashboard"
 date:   2019-03-18 18:13:47 +0100
 tags: 
 - apprenticeship

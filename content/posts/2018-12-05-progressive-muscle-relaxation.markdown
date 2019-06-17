@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where I Try Progressive Muscle Relaxation"
+title:  "The One where I Try Progressive Muscle Relaxation"
 date:   2018-12-05 19:43:47 +0100
 tags: 
 - mindfulness

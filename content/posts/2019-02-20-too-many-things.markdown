@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Too Many Things To Remember"
+title:  "The One with Too Many Things To Remember"
 date:   2019-02-20 14:13:47 +0100
 tags: 
 - architecture

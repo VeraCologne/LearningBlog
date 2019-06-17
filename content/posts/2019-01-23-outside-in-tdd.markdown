@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where I Struggle With Outside-In TDD"
+title:  "The One where I Struggle With Outside-In TDD"
 date:   2019-01-23 22:13:47 +0100
 tags: 
 - testing

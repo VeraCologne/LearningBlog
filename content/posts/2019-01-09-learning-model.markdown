@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With My Learning Model"
+title:  "The One with My Learning Model"
 date:   2019-01-09 20:43:47 +0100
 tags: 
 - apprenticeship

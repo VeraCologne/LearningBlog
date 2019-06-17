@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With the Open Space Session"
+title:  "The One with the Open Space Session"
 date:   2019-02-03 18:13:47 +0100
 tags: 
 - agile

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Software Design Patterns"
+title:  "The One with Software Design Patterns"
 date:   2019-02-25 12:13:47 +0100
 tags:
 - patterns

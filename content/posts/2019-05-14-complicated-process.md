@@ -1,5 +1,5 @@
 ---
-title: "The One With a Complicated Process Model"
+title: "The One with a Complicated Process Model"
 date: 2019-05-14T13:33:53+02:00
 tags: 
 - studitemps

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where It's Not a Dealine"
+title:  "The One where It's Not a Dealine"
 date:   2019-04-10 08:55:00 +0200
 tags: 
 - agile

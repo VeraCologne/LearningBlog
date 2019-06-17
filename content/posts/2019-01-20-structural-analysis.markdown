@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Structural Analysis"
+title:  "The One with Structural Analysis"
 date:   2019-01-20 20:13:47 +0100
 tags: 
 - communication

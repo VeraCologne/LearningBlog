@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One Where I Should Stare at Code"
+title:  "The One where I Should Stare at Code"
 date:   2019-03-05 21:13:47 +0100
 tags: 
 - apprenticeship

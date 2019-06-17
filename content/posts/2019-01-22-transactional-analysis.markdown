@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Transactional Analysis"
+title:  "The One with Transactional Analysis"
 date:   2019-01-22 22:13:47 +0100
 tags: 
 - communication

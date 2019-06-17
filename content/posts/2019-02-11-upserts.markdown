@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Upserts"
+title:  "The One with Upserts"
 date:   2019-02-11 20:13:47 +0100
 tags: 
   - elixir

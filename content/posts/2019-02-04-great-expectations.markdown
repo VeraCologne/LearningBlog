@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The One With Great Expectations"
+title:  "The One with Great Expectations"
 date:   2019-02-03 18:13:47 +0100
 tags: 
 - communication
