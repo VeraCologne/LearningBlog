@@ -1,0 +1,28 @@
+---
+title: "The One where We Visit Berlin and Hamburg"
+date: 2019-08-29T19:55:53+02:00
+tags:
+- studitemps
+- product development
+---
+
+I'm on a train, again. In the past 8 days I have travelled from Köln zu Soltau, back to Köln, from Köln to Berlin, from Berlin to Hamburg and now I'm going back from Hamburg to Köln. I spent the last two days visiting 2 of our offices outside of Köln in order to get a better understanding of how our software product is being used and what we should focus on next.
+
+In Berlin, we did a remote refinement session with the rest of our team at the beginning of the day where we talked about a small bug fix and possible improvement to one of our views. Since the person who notified us about the bug and told us what he think could be done better was in this office, we asked him to join the refinement and explained some possible solutions and their downfalls to him. It was interesting so see him realise that what he had proposed was actually quite a complex thing because the data could be interpreted so differently. We decided on quickly mocking some variations that we thought would work and test them with some people from the recruiting teams over the next two days.
+
+After lunch I shadowed one of the recruiters in order to see how he uses the software and let him tell me where he has problems or where he wished we could help him some more. A lot of the things he is struggling with in his work flow are things we already know about and have stories in our backlog for, but there were some things that I hadn't been aware of before that I will take back into our team to further talk about.
+
+Later in the afternoon, we did a workshop with most of the recruiting team on our next epic, by asking them to write down what they think is currently hindering them in their process on sticky notes and then clustering them on a wall which let us see the areas where most people think the current version of our product is lacking. Afterwards we let them choose a topic that was very important for them and explain this in a bit more detail, with us asking W questions in order to understand their problem a bit better. Some things I took away from this:
+
+- There are so many things we should do and it will be so difficult choose a good first step!
+- I had heard a lot about this before, actually years before when my team was working on another recruiting software (that ultimately was thrown away) and it's sometimes difficult for me not to get frustrated and/or ungeduldig hearing this again and again.
+- I noticed how often we ask leading questions in situations like that. I noticed by listening to someone else, then realised how well our PO is doing this and then struggled to formulate my next questions, thus realising that my own questions are shit as well.
+- It's still a very effective tool for refining requirements no matter how difficult it sometimes is.
+
+From Berlin, we took a train to Hamburg in the evening where we sat down at the hotel bar for one drink before we all stumbled into our rooms to enjoy the air con.
+
+The Hamburg office was in moving mode when we arrived there in the morning. They will have some new team members in September and needed to rearrange rooms so almost everyone had to pack their things and move to a different room. While they did that, we tucked away in one of their conference rooms where we noticed that the Wifi signal was really bad which led me to writing to one of our IT guys back in Köln who helped me find the Access Points, figure out which one was offline and talked me through plugging the ethernet cable into different ports to see which one was working. So I actually did something useful by fixing their internet problems, yay!
+
+I spent most of the rest of my time trying to test our screenshot and watch another recruiter at work. Both of these endeavours had different results than expected. Nobody understood the screenshots which might be because none of the recruiters actually needed this improvement because it had nothing to do with their work. Great, we'll just implement the easy fix then. And I might have said too much while asking this one recruiter if it was okay for me to sit behind him and watch him work because I told him that I'd be happy hear about some problems he has along the way. He then started pointing out things for more than an hour and I did not see him work at all. But it was still good. Some of the things were problems we had heard the day before, some were different and he had very good explanations for everything he said.
+
+And it was very interesting to have a long conversation with this particular guy. I had never met him in person before, but he is an active contributor to our Slack channel for questions, bugs and feature requests and to be honest, he hadn't made the best impression on me from the way he wrote there. When I met him and talked to him, I was pleasantly surprised. I had imagined a very different kind of person from our Slack conversations. And I can imagine that our future conversations via text will run much more smoothly after we spent some face-to-face time together. I wrote about this before in a post about our Open Spaces: It's *so, so valuable* to actually meet the people you write software for from time to time which is why I will definitely go on more of these branch visits, no matter how draining they are. Maybe not in a week where I have just come back from a conference, though.
