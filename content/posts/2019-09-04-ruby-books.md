@@ -12,5 +12,3 @@ Guess what ... I'm on a train! This time I'm on my way to Stuttgart, another one
 As I wrote yesterday, I already got some suggestions on things to read afterwards. Turns out the Rails for Zombies course is just the videos nowadays though and I wasn't the biggest fan of them when I went through the whole interactive course some years ago and I don't want to sit throught just the videos without the practice parts, so I asked for another suggestion and Sascha remembered that he had like the very first edition of Agile Web Development with Ruby on Rails way back then. I've never been disappointed with a Pragmatic Programmers book before, so I've bought it and will probably start reading this on my way back on Friday.
 
 But first, I need to finish my project from our last Open Space, prepare some notes for facilitating tomorrow's Open Space (eeek!) and look outside the window a bit more.
-
-Hall
