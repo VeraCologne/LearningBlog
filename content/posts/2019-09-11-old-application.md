@@ -1,6 +1,6 @@
 ---
 title: "The One where I Revive an Old Application"
-date: 2019-09-12T18:35:53+02:00
+date: 2019-09-11T18:35:53+02:00
 tags:
 - studitemps
 - rails
