@@ -9,7 +9,7 @@ tags:
 
 I started my new learning project today. And I'm already done with my MVP. Woohoo!
 
-I explained my idea to Sascha yesterday and asked if he could help me with its implementation, along with Andreas from my former team, and he said yes. And then I pitched it to my boss and he like the idea, so I wanted to get started right away.
+I explained my idea to Sascha yesterday and asked if he could help me with its implementation, along with Andreas from my former team, and he said yes. And then I pitched it to my boss and he liked the idea, so I wanted to get started right away.
 
 I think I have only vaguely mentioned what I wanted to do on here, so I'm going get into a bit more detail now. I want to build a Software Craft Learning Platform for Studitemps Software Engineers. So far, I have these ideas:
 
