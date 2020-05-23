@@ -62,6 +62,7 @@ footer = ["social_menu"]
 
 [params.opengraph.twitter]
 page = "" # Twitter page username
+images = ['/images/cover.png']
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
