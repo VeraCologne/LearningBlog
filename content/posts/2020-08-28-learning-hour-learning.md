@@ -14,7 +14,7 @@ Last week there was a Softwerkskammer Köln online meetup at Rewe Digital about 
 There were two things Ansgar mentioned that really stuck with me:
 
 1. It's easier to keep up a dedicated learning practice with some structure through regularity. Doing something every day or at a set time every week helps make it become more of a habit that's difficult to skip. Especially if you're someone who generally strives with structure.
-2. He shared some links to websites with Code Katas, typing practice, shortcut learning etc. The simple stuff that makes such a big difference.
+2. He shared some links to websites with Code Katas, typing practice, shortcut learning etc.[^1] The simple stuff that makes such a big difference.
 
 So I have decided that I will try to make time for at least one hour every weekday for some form of learning. My current week structure is:
 
@@ -35,3 +35,6 @@ Some other people said they'd be interested in doing this again another time and
 By the way: I looked into RSpec Matchers during today's team learning time and didn't find anything there to solve my problem with an annoying test setup, but I learned a lot more about RSpec Matchers. And I solved my problem without RSpec. And in doing this I learned about splat operators in Ruby. Yep. I actually had no idea what this weird * does although I have definitely used a lot of code that used it by copying without understanding. Oops. That's another learning-related thing I need to get better at: Find a way to note down things that I don't understand while using them and then actually learn about them. I often get lost in trial and error while working on something I want to finish and then forget to make an effort with learning.
 
 On that topic: I'm always looking for learning resources on Software Craft. If you have anything to share, let me know. One thing that was shared with me a while ago that I found in our dead #apprenticeship Slack channel (still sad) was this [Onboarding Plan](https://github.com/flyeralarm/onboarding) that I'm also going to take a look at next week.
+
+
+[^1]: Some of the links that I either already knew about or have taken a quick look at and found useful since this meetup: https://10fastfingers.com/, https://typing.io/, https://www.shortcutfoo.com/, https://exercism.io/, https://www.codewars.com/
