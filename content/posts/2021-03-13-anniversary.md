@@ -1,6 +1,6 @@
 ---
 title: "The One with an Anniversary"
-date: 2021-02-26T18:04:53+02:00
+date: 2021-03-13T11:04:53+02:00
 tags:
 - homeoffice
 - mental health
@@ -17,7 +17,7 @@ Around lunch time, the NewCraftsConference in Paris in June was cancelled which 
 
 When we got back to the office, press releases about school closures started coming in. By that time, it was 4 people in the office and all of us were affected. Two of us have one teenage kid, one has 2 kids in primary school and one has a partner working as a teacher. We don't have a lot of coworkers with school-aged children so it was really weird that it was this group of people in the office sharing the news about school closures. A few minutes later, our manager posted on Slack informing us that Studitemps had decided to have us all working from home from next week on. Again, no surprise, we had been waiting. But we then realised that a lot of coworkers were on a day off or on holiday and it would be a good idea to tell them not to come to the office on Monday unless they needed to get some stuff for working from home. So we organised who of us would text those people in case they wouldn't look at Slack.
 
-An hour later, Andreas was informed that their feature would not go live this day because the stakeholders had decided that a big process change was not a good idea with this weird situation of having to work from home from next week on. We should have anticipated this and just watch the conference and not care about the rest. Oh well.
+An hour later, we were informed that the new feature would not go live this day because the stakeholders had decided that a big process change was not a good idea with this weird situation of having to work from home from next week on. We should have anticipated this and just watch the conference and not care about the rest. Oh well.
 
 With nothing pressing to do anymore and a conference that we had already kind of abandoned due to the chaos of the day, we started thinking about the end of the work day. By then, two other people had arrived, to get their laptops for the week ahead, if I remember correctly. And there were a few others from other departments in other parts of the office. Not many, though. A lot had already left. So I started going around, asking those who were still there if they would join us for a last beer o'clock at the Kiosk we used to go to after work. All those who were still there, joined, at least for one beer. After all, it was the last time we'd see each other for a few weeks. Haha. How naive we were back then to think we'd be back at the office after the Easter break. A [few weeks later](/posts/2020-04-06-at-home) I was more cautious with my wording but still hadn't fully grasped the extent of all of this.
 
