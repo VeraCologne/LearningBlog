@@ -2,7 +2,7 @@
 title: "The One with an Anniversary"
 date: 2021-03-13T11:04:53+02:00
 tags:
-- homeoffice
+- remote work
 - mental health
 - teams
 ---
