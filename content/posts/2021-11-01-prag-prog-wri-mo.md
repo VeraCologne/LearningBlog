@@ -4,6 +4,7 @@ date: 2021-11-01T19:50:53+02:00
 tags:
 - learning
 - writing
+- pragprogwrimo
 ---
 
 Apparently, it's [PragProgWriMo](https://medium.com/pragmatic-programmers/pragprowrimo-starts-november-1st-39329b7ea346), so this seems like a perfect time to kick myself in the butt and get this blog going again.
