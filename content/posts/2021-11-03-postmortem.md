@@ -3,6 +3,8 @@ title: "The One with a Postmortem"
 date: 2021-11-03T19:50:53+01:00
 tags:
 - pragprogwrimo
+- retrospective
+- incidents
 ---
 
 We did a postmortem today for an incident we had during Allerheiligen. It wasn't something really really bad but one of our internal apps crashed our AMQP instance which led to one of our external apps being offline for a bit and it showed us that we have to work on our alerting a bit.
