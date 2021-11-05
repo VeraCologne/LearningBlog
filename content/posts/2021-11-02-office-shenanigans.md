@@ -1,6 +1,6 @@
 ---
 title: "The One at the Office"
-date: 2021-11-02T19:50:53+02:00
+date: 2021-11-02T19:50:53+01:00
 tags:
 - studitemps
 - teams
