@@ -7,8 +7,17 @@
     border-bottom: none;
     color: #32bca5;
 }
-z
+
+.site-desc a {
+    border-bottom: none;
+    color: #32bca5;
+}
+
 .entry-content a:hover {
+    color: #1E645A
+}
+
+.site-desc a:hover {
     color: #1E645A
 }
 
