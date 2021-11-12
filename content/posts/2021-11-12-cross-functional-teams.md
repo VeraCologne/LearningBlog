@@ -1,5 +1,5 @@
 ---
-title: "The One with Cross-functional teams"
+title: "The One with Cross-Functional Teams"
 date: 2021-11-12T15:10:53+01:00
 tags:
 - pragprogwrimo
