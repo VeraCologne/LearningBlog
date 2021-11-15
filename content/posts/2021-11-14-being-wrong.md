@@ -1,6 +1,6 @@
 ---
 title: "The One Where I Might Be Wrong"
-date: 2021-11-13T13:10:53+01:00
+date: 2021-11-14T13:10:53+01:00
 tags:
 - pragprogwrimo
 - agile
