@@ -4,7 +4,7 @@ date: 2021-11-12T15:10:53+01:00
 tags:
 - pragprogwrimo
 - software architecture
-- meetups
+- events
 ---
 
 I managed to see a stream from [software-architektur.tv](https://software-architektur.tv/) live today. A coworker and I watched it together in an Around call and I think we are going to do this more often from now on.
