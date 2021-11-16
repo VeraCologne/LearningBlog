@@ -1,6 +1,6 @@
 ---
 title: "The One With No Conference"
-date: 2021-11-15T19:10:53+01:00
+date: 2021-11-16T19:10:53+01:00
 tags:
 - pragprogwrimo
 - events
