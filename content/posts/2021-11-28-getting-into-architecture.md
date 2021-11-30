@@ -1,6 +1,6 @@
 ---
 title: "The One Where I Might Get Into Architecture"
-date: 2021-11-27T15:30:53+01:00
+date: 2021-11-28T15:30:53+01:00
 tags:
 - pragprogwrimo
 - architecture
