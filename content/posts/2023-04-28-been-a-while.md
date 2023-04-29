@@ -1,0 +1,26 @@
+---
+title: "The One Where It's Been A While"
+date: 2023-04-28T21:55:36+02:00
+tags:
+- codecentric
+- product development
+- life
+---
+
+It's me, hi. I didn't realise how long I haven't posted anything. It took me a while to figure out how this blog even worked. I couldn't even deploy at first because apparently the build image I was on had been deprecated for months. Oops. I kind of want to get back into writing though. And I think I just need to start somewhere, so this will be a quick status update for the past 1 1/2 years.
+
+I changed jobs! I spent the most part of the first half of 2022 trying to figure out if it might be time to move on. It was a really difficult decision, I loved my team so much, I enjoyed the tech stack, I was so proud of the cool learning community that we built with our (ehem, my) Architecture Community of Practice and it was quite fun being one of the people who knew the most about our business and products. But after 7 1/2 years in my first real job I just needed to see something new.
+
+And I've got a new role! I'm a Product Owner now. If that is a job title one can have, but this is not the place to have that discussion. On the one hand this seems to be a very logical move considering what I have done and what I've been interested in during the past years, on the other hand it is really, really weird for me to think of myself as not a Software Engineer anymore. Although ... wow, I really need to write something on roles and titles at some point. I think I promised someone on Twitter one years ago but never did it.
+
+I work in Solingen now. I still live in Cologne (as if I'd ever leave), but there's no codecentric office here. And codecentric really stood out in my application process, so although my initial plan was to find a new job in Cologne and go to work from the (well-filled) office more often, I am now mostly working from home and I have quite a long commute that is not doable by bike anymore. It has been absolutely great so far though. The office is quite nice and there are actually always people there and everyone is really awesome.
+
+My biggest fear about leaving my job was that I wouldn't have anyone that I feel close to at work anymore. I'm someone who likes being good friends with people from work and having the occasional deep chat in the tea kitchen or in a video call after a meeting. And what I had at jobvalley was kind of perfect. Our team was so, so amazing, I liked everyone so much. And then there was my old team and the rest of the CoP that I loved spending time with, and so many other people in other teams. I just didn't think I'd get anything like this ever again, at least not before being somewhere for a long time. Turns out I was wrong, on 2 levels. First, starting somewhere new where at first I didn't really know anyone wasn't as bad as I thought it would be. I realised that I do have friends outside of work and that I can actually do things on my own (more on that later). Secondly, I have landed in the best team imaginable, OMG. The guys are the absolute best, we have clicked from the very first day, it feels like I have been there forever, we have so much fun quarreling with each other, I truly look forward to joining our team call every single morning and I could not be happier.
+
+The project is quite cool, too. The domain is interesting, there's a lot to think about with our project, the people at our client that we talk to are all very helpful and nice, and they are in Cologne, so I do have an office in Cologne again, yay.
+
+Aside from work, I fell into a One Direction TikTok hole. It started with Harry singing [Hopelessly Devoted](https://www.youtube.com/watch?v=IxML2bkwn4g) during one of his tour shows which took me a bit by surprise because I kind of have been ignoring pop music for a long time and forgot that One Direction and the boys as solo artists existed and that they might actually be quite good. I then got served One Direction videos that made me start listening to them on Spotify, and liking all of the [Nouis videos](https://www.youtube.com/watch?v=5dOKG0_f-VE) on TikTok, so I got more 1D and related content. And it peaked with me realising that I genuinely think Louis Tomlinson is awesome when he released his new album and [sang a few songs](https://www.youtube.com/watch?v=p96rASxV9TI) from it live.
+
+It made me start listening to music again, after years of really not doing that. It made me get out my guitar and practise regularly. It made me get concert tickets. I started with Louis who's going to be in Cologne in October, then I decided to see Harry in Dusseldorf, then Alexz Johnson released tour dates, so I'll see her in London (yay!) in a few days and then I thought I could just go full concert girly and go see Louis again for his last show in Birmingham which I will combine with a big trip all on my own, London – Birmingham – Manchester, in November. Oh and I will go to a Taylor/Harry club night, in Berlin. I know it sounds odd, but I think discovering (my love for) One Direction had a bigger positive impact on my life than changing jobs and I am so here for everything it's giving me.
+
+I think that's enough for a status update for now. Let's see if I can get back into writing more often.
