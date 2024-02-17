@@ -71,7 +71,7 @@ titleSeparator = "•"
 [params.social]
 github = "VeraCologne"
 instagram = "veracologne"
-twitter = "VeraCologne"
+mastodon= "nerdculture.de/@vera"
 
 [params.comments]
 enable = false
