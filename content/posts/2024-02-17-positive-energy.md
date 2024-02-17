@@ -1,5 +1,5 @@
 ---
-title: "The One Positive Energy"
+title: "The One With Positive Energy"
 date: 2024-02-17T11:02:59+0000
 tags:
 - personal development
